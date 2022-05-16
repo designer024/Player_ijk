@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- app 名稱 -->
+    <string name="app_name">播放器</string>
+    <!-- 2D -->
+    <string name="two_d">2D</string>
+    <!-- 3D -->
+    <string name="three_d">3D</string>
+    <!-- 設定 -->
+    <string name="mode_3d2dswitch">2D/3D模式</string>
+
+    <string name="pref_key_transition_time" translatable="false">pref_key_transition_time</string>
+
+    <!-- Recently -->
+    <string name="recently">最近</string>
+    <!-- Video -->
+    <string name="video">影片</string>
+    <!-- Audio -->
+    <string name="audio">音樂</string>
+    <!-- Browse -->
+    <string name="browse">檔案</string>
+    <!-- 個檔案 -->
+    <string name="files">&#160;個項目</string>
+    <!-- Browse home -->
+    <string name="browse_root">Home</string>
+    <!-- 沒有我的檔案 -->
+    <string name="no_my_files">沒有我的檔案</string>
+    <!-- 沒有最近播放 -->
+    <string name="no_recently">沒有最近播放</string>
+    <!-- 沒有我的影片 -->
+    <string name="no_my_video">沒有我的影片</string>
+    <!-- 沒有我的音樂 -->
+    <string name="no_my_music">沒有我的音樂</string>
+    <!-- 你可以在「設定」開啟權限，存取手機上的媒體資訊 -->
+    <string name="you_can_open_permission_in_settings">你可以在「設定」開啟權限，存取手機上的媒體資訊</string>
+    <string name="title"> </string>
+</resources>

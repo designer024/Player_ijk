@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- 大藍背景 -->
+    <color name="big_bule_background">#FF5CA0B6</color>
+
+    <!-- 透明背景 -->
+    <color name="zero">#00FFFFFF</color>
+
+    <color name="white_52">#52FFFFFF</color>
+
+    <color name="white_33">#33FFFFFF</color>
+
+    <color name="blue">#FF97C5D3</color>
+
+    <color name="switch_button_selected">#FF00CDFA</color>
+
+    <!-- 純文字的按鈕 hover時的顏色 -->
+    <color name="text_buttons_hover">#FF00F7FF</color>
+    <!-- 標籤漸層尾段顏色 -->
+    <color name="tab_line_end_color">#FF576AE5</color>
+    <!-- 純文字的按鈕 hover時的顏色1 -->
+    <color name="text_buttons_hover_1">#FF3BFFC8</color>
+    <!-- seekbar thumb -->
+    <color name="seekbar_thumb">#FF26F2FF</color>
+    <!-- seekbar thumb with alpha -->
+    <color name="seekbar_thumb_alpha">#A326F2FF</color>
+    <!-- 楕圓按鈕default -->
+    <color name="oval_button_default">#52979797</color>
+    <!-- 提示字樣顏色 -->
+    <color name="edit_text_hint_color">#FFC4C4C4</color>
+    <!-- 提示字樣顏色 帶透明度 -->
+    <color name="edit_text_hint_color_alpha">#52C4C4C4</color>
+    <!-- recycler view 底線 -->
+    <color name="recyclerview_item_under_line">#FF707070</color>
+    <!-- 灰字 -->
+    <color name="grey_text_color">#FF979797</color>
+    <!-- 標籤hover -->
+    <color name="tab_hover">#524DBBFF</color>
+    <!-- 文字輸入背景色塊 -->
+    <color name="input_field_background">#FF3C3C3C</color>
+    <!-- hover_button_gradient_start -->
+    <color name="hover_button_gradient_start">#FF3C3C3C</color>
+    <!-- 鐵灰背景 -->
+    <color name="items_background">#FF212121</color>
+    <!-- 鐵灰背景 alpha 0.5 -->
+    <color name="items_background_alpha_half">#88212121</color>
+    <!-- 鐵灰背景 alpha 0.8 -->
+    <color name="items_background_alpha_eighty">#D9212121</color>
+    <!-- 全螢幕下方矩形半透明 -->
+    <color name="full_screen_media_controller_back">#36000000</color>
+    <!-- 影片進度條 -->
+    <color name="video_programs_bar_background">#FF484848</color>
+    <!-- pop背景  -->
+    <color name="pop_black_background">#F5000000</color>
+    <!-- pop_ask_enable_background -->
+    <color name="pop_ask_enable_background">#E9000000</color>
+</resources>

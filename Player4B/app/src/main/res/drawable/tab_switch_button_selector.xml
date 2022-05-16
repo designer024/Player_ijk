@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="true">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/dp_4"/>
+            <solid android:color="@color/zero"/>
+        </shape>
+    </item>
+
+    <item android:state_hovered="true">
+        <shape android:shape="rectangle">
+            <gradient
+                android:type="radial"
+                android:centerX="50%"
+                android:centerY="50%"
+                android:startColor="@color/text_buttons_hover"
+                android:endColor="@color/zero"
+                android:gradientRadius="@dimen/dp_100"/>
+        </shape>
+    </item>
+
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/dp_4"/>
+            <gradient
+                android:type="radial"
+                android:centerX="50%"
+                android:centerY="50%"
+                android:startColor="@color/text_buttons_hover"
+                android:endColor="@color/zero"
+                android:gradientRadius="@dimen/dp_100"/>
+        </shape>
+    </item>
+</selector>

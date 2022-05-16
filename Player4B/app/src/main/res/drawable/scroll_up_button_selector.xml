@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/zero" android:state_enabled="true"/>
+    <item android:drawable="@mipmap/img_scroll_hover_96px" android:state_hovered="true"/>
+</selector>

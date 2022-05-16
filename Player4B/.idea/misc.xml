@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.25416666666666665" />
+        <entry key="../../../../layout/custom_preview.xml" value="0.12050359712230216" />
+        <entry key="app/src/main/res/drawable/browser_list_shape.xml" value="0.222" />
+        <entry key="app/src/main/res/drawable/forward_button_layer_list.xml" value="0.289" />
+        <entry key="app/src/main/res/drawable/ic_btn_arrow_downward.xml" value="0.295" />
+        <entry key="app/src/main/res/drawable/ic_btn_arrow_downward_grey.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable/ic_btn_arrow_downward_white.xml" value="0.295" />
+        <entry key="app/src/main/res/drawable/ic_btn_arrow_upward_grey.xml" value="0.295" />
+        <entry key="app/src/main/res/drawable/ic_btn_arrow_upward_white.xml" value="0.295" />
+        <entry key="app/src/main/res/drawable/ic_btn_pause.xml" value="0.2565" />
+        <entry key="app/src/main/res/drawable/ic_btn_volume_down.xml" value="0.289" />
+        <entry key="app/src/main/res/drawable/ic_btn_volume_mute.xml" value="0.289" />
+        <entry key="app/src/main/res/drawable/ic_btn_volume_off.xml" value="0.289" />
+        <entry key="app/src/main/res/drawable/ic_btn_volume_up.xml" value="0.289" />
+        <entry key="app/src/main/res/drawable/ic_icon_album.xml" value="0.1465" />
+        <entry key="app/src/main/res/drawable/ic_icon_arrow_right.xml" value="0.1465" />
+        <entry key="app/src/main/res/drawable/ic_img_list_empty.xml" value="0.1465" />
+        <entry key="app/src/main/res/drawable/ic_img_music_empty.xml" value="0.222" />
+        <entry key="app/src/main/res/drawable/locked_layer_list.xml" value="0.156" />
+        <entry key="app/src/main/res/drawable/mask_shape.xml" value="0.2565" />
+        <entry key="app/src/main/res/drawable/media_controller_buttons_back_shape.xml" value="0.289" />
+        <entry key="app/src/main/res/drawable/pause_button_layer_list.xml" value="0.289" />
+        <entry key="app/src/main/res/drawable/play_button_layer_list.xml" value="0.289" />
+        <entry key="app/src/main/res/drawable/rewind_button_layer_list.xml" value="0.289" />
+        <entry key="app/src/main/res/drawable/rounded_corner_porgress_bar_layer_list.xml" value="0.2765" />
+        <entry key="app/src/main/res/drawable/scroll_down_button_background_disable_layer_list.xml" value="0.2075" />
+        <entry key="app/src/main/res/drawable/scroll_down_button_background_enable_layer_list.xml" value="0.2075" />
+        <entry key="app/src/main/res/drawable/scroll_up_button_background_disable_layer_list.xml" value="0.2075" />
+        <entry key="app/src/main/res/drawable/scroll_up_button_background_enable_layer_list.xml" value="0.289" />
+        <entry key="app/src/main/res/drawable/scroll_up_button_background_layer_list.xml" value="0.2075" />
+        <entry key="app/src/main/res/drawable/scroll_up_button_selector.xml" value="0.295" />
+        <entry key="app/src/main/res/drawable/scrollbar_thumb_layer_list.xml" value="0.2445" />
+        <entry key="app/src/main/res/drawable/scrollbar_thumb_shape.xml" value="0.295" />
+        <entry key="app/src/main/res/drawable/scrollbar_track.xml" value="0.295" />
+        <entry key="app/src/main/res/drawable/scrollbar_track_layer_list.xml" value="0.2445" />
+        <entry key="app/src/main/res/drawable/scrollbar_track_shape.xml" value="0.2445" />
+        <entry key="app/src/main/res/drawable/seek_bar_background_fill.xml" value="0.295" />
+        <entry key="app/src/main/res/drawable/seek_bar_progress.xml" value="0.295" />
+        <entry key="app/src/main/res/drawable/seek_bar_progress_fill.xml" value="0.22" />
+        <entry key="app/src/main/res/drawable/seekbar_thumb_shape.xml" value="0.198" />
+        <entry key="app/src/main/res/drawable/switch_button_selected_shape.xml" value="0.1465" />
+        <entry key="app/src/main/res/drawable/tab_background_shape.xml" value="0.139" />
+        <entry key="app/src/main/res/drawable/tab_switch_button_selector.xml" value="0.15" />
+        <entry key="app/src/main/res/drawable/ugly_scroll_left_selector.xml" value="0.2555" />
+        <entry key="app/src/main/res/drawable/ugly_scroll_right_selector.xml" value="0.2555" />
+        <entry key="app/src/main/res/drawable/unlock_layer_list.xml" value="0.156" />
+        <entry key="app/src/main/res/drawable/volume_down_layer_list.xml" value="0.1815" />
+        <entry key="app/src/main/res/drawable/volume_mute_layer_list.xml" value="0.1815" />
+        <entry key="app/src/main/res/drawable/volume_up_background_default_shape.xml" value="0.295" />
+        <entry key="app/src/main/res/drawable/volume_up_background_selected_shape.xml" value="0.295" />
+        <entry key="app/src/main/res/drawable/volume_up_background_shape.xml" value="0.295" />
+        <entry key="app/src/main/res/drawable/volume_up_layer_list.xml" value="0.289" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/member_all_files_media_item.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/member_list_item_view.xml" value="0.1320754716981132" />
+        <entry key="app/src/main/res/layout/member_media_thumbnail_layout.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressKotlinCodeStyleNotification">
+    <option name="disableForAll" value="true" />
+  </component>
+</project>
